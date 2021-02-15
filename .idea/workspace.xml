@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec2ed548-eb3a-45cf-9eb3-099e20359526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    <list default="true" id="ec2ed548-eb3a-45cf-9eb3-099e20359526" name="Default Changelist" comment="Feature: Added Homepage">
+      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +55,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1613093225083</updated>
-      <workItem from="1613093226179" duration="789000" />
+      <workItem from="1613093226179" duration="1590000" />
+      <workItem from="1613101428539" duration="28000" />
+      <workItem from="1613427581487" duration="1520000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1613093298995</created>
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613093298995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature: Added Homepage">
+      <created>1613094130486</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613094130486</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,16 +81,29 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Feature: Added Homepage" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added Homepage" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613094086354">
+    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613427786549">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613094086354" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613093542739">
+    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613427786549" />
+    <state x="137" y="100" key="MergeDialog" timestamp="1613427767373">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613093542739" />
+    <state x="137" y="100" key="MergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1613427767373" />
+    <state x="431" y="184" width="564" height="554" key="MultipleFileMergeDialog" timestamp="1613427767409">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="431" y="184" width="564" height="554" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1613427767409" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613427826112">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613427826112" />
+    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog" timestamp="1613427697055">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877@0.23.1440.877" timestamp="1613427697055" />
   </component>
 </project>
