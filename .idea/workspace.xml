@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ec2ed548-eb3a-45cf-9eb3-099e20359526" name="Default Changelist" comment="Feature: Added Homepage">
-      <change afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
+    <list default="true" id="ec2ed548-eb3a-45cf-9eb3-099e20359526" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/team.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +45,11 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -58,7 +63,7 @@
       <updated>1613093225083</updated>
       <workItem from="1613093226179" duration="1590000" />
       <workItem from="1613101428539" duration="28000" />
-      <workItem from="1613427581487" duration="1520000" />
+      <workItem from="1613427581487" duration="3275000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1613093298995</created>
@@ -74,22 +79,47 @@
       <option name="project" value="LOCAL" />
       <updated>1613094130486</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feature: Added Team Page">
+      <created>1613430518021</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613430518021</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Task: Added Team Image for Abhay">
+      <created>1613430642042</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613430642042</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Bug: Renamed image file for Team Page">
+      <created>1613430719151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613430719151</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Feature: Added Homepage" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feature: Added Homepage" />
+    <MESSAGE value="Feature: Added Team Page" />
+    <MESSAGE value="Task: Added Team Image for Abhay" />
+    <MESSAGE value="Bug: Renamed image file for Team Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug: Renamed image file for Team Page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613430641951">
+    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613430719061">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613430641951" />
+    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613430719061" />
     <state x="137" y="100" key="MergeDialog" timestamp="1613427767373">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
@@ -98,13 +128,13 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="431" y="184" width="564" height="554" key="MultipleFileMergeDialog/0.23.1440.877@0.23.1440.877" timestamp="1613427767409" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613427826112">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613498916358">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613427826112" />
-    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog" timestamp="1613427697055">
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613498916358" />
+    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog" timestamp="1613518032518">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877@0.23.1440.877" timestamp="1613427697055" />
+    <state x="424" y="181" key="git4idea.branch.GitSmartOperationDialog/0.23.1440.877@0.23.1440.877" timestamp="1613518032518" />
   </component>
 </project>
