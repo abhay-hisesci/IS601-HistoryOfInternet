@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec2ed548-eb3a-45cf-9eb3-099e20359526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1613093225083</updated>
       <workItem from="1613093226179" duration="789000" />
-      <workItem from="1613518500815" duration="1758000" />
+      <workItem from="1613518500815" duration="2499000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1613093298995</created>
@@ -66,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613093298995</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feature: Add About Page">
+      <created>1613520710073</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613520710073</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,17 +94,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Feature: Add About Page" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feature: Add About Page" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613094086354">
+    <state x="221" y="66" key="CommitChangelistDialog2" timestamp="1613520709970">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613094086354" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613093542739">
+    <state x="221" y="66" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1613520709970" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1613520738640">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613093542739" />
+    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1613520738640" />
     <state x="503" y="385" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613518561653">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
